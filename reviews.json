@@ -1,0 +1,29 @@
+[
+    {  
+        "creator": "Mike",
+        "movie": "The Matrix",
+        "title": "My favortie movie of all time" ,
+        "content": "A fantastic film that makes you question everything you thought you knew about reality. The speical effects still hold up over 2 deacdes after it premire" ,
+        "rating": "5"    
+    },
+    {  
+        "creator": "Lucy",
+        "movie": "Jack and Jill",
+        "title": "The worst piece of cinema I've seen in my life" ,
+        "content": "This so called comedy did not make me laugh once but instead made me want to bury my head in a pillow in embarassment. Unless you have a twelve year old boy's sense of humor I don't recommend anyone to waste their time with this sad excuse of a film" ,
+        "rating": "1"    
+    },
+    {  
+        "creator": "Jake",
+        "movie": "Shrek",
+        "title": "An animated comedy that's fun for the whole family" ,
+        "content": "I watched this fim with my son and we both cried tears of laughter. It's filled with clever jokes that are funny for all ages" ,
+        "rating": "4"    
+    },
+    {
+      "creator": "Jennifer",
+       "movie": "Star Wars: Episode III – Revenge of the Sith",
+        "title": "A great conclusion to an overall dissapointing trilogy",
+        "content": "While the movie does a great job of concluding the prequel trilogy it still suffers from the same problems that the previous movies had like cheesy dialouge and a logically inconsistent plot",
+      "rating": "3"
+    }]

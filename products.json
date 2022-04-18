@@ -1,0 +1,46 @@
+[
+    {  
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "image": "http://studenter.miun.se/~mama2006/writeable/product1-thumbnail.jpg" ,
+        "price": "30" ,
+        "description": "The Lord of the Rings tells of the great quest undertaken by Frodo and the Fellowship of the Ring: Gandalf the Wizard; the hobbits Merry, Pippin, and Sam; Gimli the Dwarf; Legolas the Elf; Boromir of Gondor; and a tall, mysterious stranger called Strider. "    
+    },
+    {  
+        "title": "The Count of Monte Cristo",
+        "author": "Alexandre Dumas",
+        "image": "http://studenter.miun.se/~mama2006/writeable/product2-thumbnail.jpg" ,
+        "price": "15" ,
+        "description": "The Count of Monte Cristo is an adventure story that takes place during the historical events of 1815 to 1838. This piece tells the tale of a man who seeks revenge after his escape from prision and deals with the central themes of vengeance, justice, forgiveness, and mercy. "   
+    },
+    {  
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "image": "http://studenter.miun.se/~mama2006/writeable/product3-thumbnail.jpg" ,
+        "price": "20" ,
+        "description": "Crime and Punishment is a novel by Russian writer Fyodor Dostoyevsky, first published in 1866. His first masterpiece, the novel is a psychological analysis of the poor former student Raskolnikov, whose theory that he is an extraordinary person able to take on the spiritual responsibility of using evil means to achieve humanitarian ends leads him to murder. The act produces nightmarish guilt in Raskolnikov. The story is one of the finest studies of the psychopathology of guilt written in any language. "      
+    },
+    {  
+        "title": "Infinite Jest",
+        "author": "David Foster Wallace",
+        "image": "http://studenter.miun.se/~mama2006/writeable/product4-thumbnail.jpg" ,
+        "price": "25" ,
+        "description": "Set in an addicts' halfway house and a tennis academy, and featuring the most endearingly screwed-up family to come along in recent fiction, Infinite Jest explores essential questions about what entertainment is and why it has come to so dominate our lives; about how our desire for entertainment affects our need to connect with other people; and about what the pleasures we choose say about who we are. "      
+    },
+
+    {  
+        "title": "1984",
+        "author": "George Orwell",
+        "image": "http://studenter.miun.se/~mama2006/writeable/product5-thumbnail.jpg" ,
+        "price": "10" ,
+        "description": "Among the seminal texts of the 20th century, Nineteen Eighty-Four is a rare work that grows more haunting as its futuristic purgatory becomes more real. Published in 1949, the book offers political satirist George Orwell's nightmarish vision of a totalitarian, bureaucratic world and one poor stiff's attempt to find individuality. The brilliance of the novel is Orwell's prescience of modern life—the ubiquity of television, the distortion of the language—and his ability to construct such a thorough version of hell. Required reading for students since it was published, it ranks among the most terrifying novels ever written. "      
+    },
+
+    {  
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "image": "http://studenter.miun.se/~mama2006/writeable/product6-thumbnail.jpg" ,
+        "price": "18" ,
+        "description": "The Catcher in the Rye is an all-time classic in coming-of-age literature- an elegy to teenage alienation, capturing the deeply human need for connection and the bewildering sense of loss as we leave childhood behind. "      
+    }
+]
